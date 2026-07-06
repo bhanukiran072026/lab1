@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+}
+
+button{
+   display:flex;
+ padding: 12px 20px;
+    background-color: gray;
+    border-radius: 20px;
+    margin:30px;
+   
+   align-items:center;
+   justify-content: center;
+
+}
+.main
+{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    gap:0px;
+    height:80vh;
+
+
+}
